@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-02 11:20+0900\n"
+"POT-Creation-Date: 2016-12-05 16:32+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,22 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: deplicate.php:31
-msgid "deplicate test"
+#: image.php:31
+msgid "image test"
 msgstr ""
 
-#: deplicate.php:37
-msgid "This is a pen./*first*/"
+#: image.php:37
+msgid "It's Englis data."
 msgstr ""
 
-#: deplicate.php:38
-msgid "This is a pencil."
-msgstr ""
-
-#: deplicate.php:39
-msgid "This is an apple."
-msgstr ""
-
-#: deplicate.php:40
-msgid "This is a pen./*second*/"
+#: image.php:38
+msgid "\"image/en/langage.png\""
 msgstr ""
